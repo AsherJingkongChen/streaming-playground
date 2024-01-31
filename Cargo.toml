@@ -1,0 +1,8 @@
+[package]
+name = "streaming-playground"
+edition = "2021"
+description = "Simple streaming programming in Rust language."
+
+[[bin]]
+name = "copy"
+path = "rust/copy.rs"
